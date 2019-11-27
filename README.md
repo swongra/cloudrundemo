@@ -16,7 +16,7 @@ Watch this [video](https://www.youtube.com/watch?v=nhwYc4StHIc) first, which out
 
 ### Preparing source files
 You'll need some sample source code to build. Here you’ll pull the source code and Dockerfile from a Github repository.
-1. Git clone this repo.
+1. Git clone this repo: git@github.com:swongra/cloudrundemo.git
 You can see you get source code - to-pdf.py and a Dockerfile
 
 2. Navigate to pdf/
