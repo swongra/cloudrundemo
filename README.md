@@ -1,4 +1,4 @@
-# Cloud Run Demo
+# Cloud Run for Anthos, Knative on IBM Cloud
 Cloud Run Open Office demo
 
 This is a tuttorial for deploying Open Office via two flavors of Cloud Run: fully managed Cloud Run and Cloud Run for Anthos. Then you will subsequently deploy the same container image on IBM Cloud, running a Kubernetes Cluster with Knative enabled. 
